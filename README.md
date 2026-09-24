@@ -219,4 +219,4 @@ S.W.I.N.E. is available as a full free version with all features and updates inc
 Download S.W.I.N.E. now and lead your army to victory in this whimsical strategy adventure! Enjoy the full game experience today!
 
 ---
-**Last updated:** 2026-09-24 13:16:16 UTC
+**Last updated:** 2026-09-24 18:14:09 UTC
